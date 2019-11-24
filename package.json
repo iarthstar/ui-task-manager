@@ -1,0 +1,14 @@
+{
+  "name": "PhonePe-UI-Dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Arth K. Gajjar",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "parcel": "^1.12.4"
+  }
+}
